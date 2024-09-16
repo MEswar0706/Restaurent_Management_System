@@ -21,9 +21,8 @@ The Restaurant Management System is a simple desktop application built using Pyt
 - Tkinter (usually comes with Python installations)
 - SQLite3 (usually comes with Python installations)
 
-## Setup
+## Database
+The application uses an SQLite database (restaurant.db) to store inventory and order data. The database is created automatically when the application is first run.
 
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/yourusername/restaurant-management-system.git
+## Contributing
+Feel free to submit issues or pull requests if you have suggestions or improvements. Please ensure any pull requests follow the project's coding style and include tests if applicable.
